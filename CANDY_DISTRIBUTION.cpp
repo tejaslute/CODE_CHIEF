@@ -1,4 +1,4 @@
-// CANDY_DISTRIBUTION.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// CAN DY_DISTRIBUTION.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 
