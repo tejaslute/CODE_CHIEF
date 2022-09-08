@@ -1,4 +1,4 @@
-2. Add Two Numbers
+2. Add Two Number
 Medium
 
 19405
